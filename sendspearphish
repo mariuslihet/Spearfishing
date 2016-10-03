@@ -1,0 +1,3 @@
+#!/bin/bash
+
+PYTHONPATH=/your/path/to/myhubot/node_modules/hubot-script-shellcmd/bash/handlers/ python /your/path/to/myhubot/node_modules/hubot-script-shellcmd/bash/handlers/sendspearphish.py $1 $2 $3 $4 $5

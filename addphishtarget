@@ -1,0 +1,2 @@
+#!/bin/bash
+PYTHONPATH=/your/path/to/myhubot/node_modules/hubot-script-shellcmd/bash/handlers/ python /your/path/to/myhubot/node_modules/hubot-script-shellcmd/bash/handlers/addphishtarget.py $1 $2 $3
